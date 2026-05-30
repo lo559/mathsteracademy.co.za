@@ -1,0 +1,6 @@
+{
+  "name": "Mathster Academy",
+  "description": "Premium South African tutoring academy offering in-person and online tutoring for Grades 4–12 in Mathematics, Science, and other core subjects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
